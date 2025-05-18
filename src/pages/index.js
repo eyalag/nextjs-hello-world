@@ -7,6 +7,7 @@ export default function Home() {
       <Link href="/about">
         About
       </Link>
+      eyal
     </div>
   );
 }
